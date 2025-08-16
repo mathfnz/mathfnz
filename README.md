@@ -12,7 +12,7 @@ BTW, I play World of Warcraft since 2013 and I love my FDK! For the Alliance!!
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
-<center>![](https://nirzak-streak-stats.vercel.app/?user=mathfnz&theme=dark&hide_border=false)</center> 
+<center>![](https://nirzak-streak-stats.vercel.app/?user=mathfnz&theme=dark&hide_border=true)</center> 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathfnz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
