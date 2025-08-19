@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently developing my skills in data engineering, focusing on Python, Git, GitHub, and the Google Cloud Platform (GCP). Prior to this, I spent two years at a CRM consultancy working as a Salesforce Analyst, where I gained hands-on experience with Marketing Cloud and Data Cloud.
 
+matheus.fnds20@gmail.com
+
 Something interesting about me is that I’m a Historian! My first degree was in History, and I spent two years studying the Renaissance — more specifically, Michelangelo.<br><br>
 
 BTW, I play World of Warcraft since 2013 and I love my FDK! For the Alliance!! 
