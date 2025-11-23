@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently developing my skills in data engineering, focusing on Python, Git, GitHub, and the Google Cloud Platform (GCP). Prior to this, I spent two years at a CRM consultancy working as a Salesforce Analyst, where I gained hands-on experience with Marketing Cloud and Data Cloud.
+I am currently developing my skills in data engineering, focusing on Python, Git, GitHub, and Azure Plataform (Certificated). Prior to this, I spent two years at a CRM consultancy working as a Salesforce Analyst, where I gained hands-on experience with Marketing Cloud and Data Cloud.
 
 matheus.fnds20@gmail.com
 
